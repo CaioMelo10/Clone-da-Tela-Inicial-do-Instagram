@@ -2,7 +2,7 @@
 
 Olá, pessoal! Este é um projeto de clone da tela inicial do Instagram que desenvolvi com o React Native. Aqui, vou compartilhar minha jornada de criação dessa versão própria da interface que todos nós conhecemos e adoramos que se chama Instagram.
 
-## Objetivo do Projeto ( O que eu aprendi) 
+## Objetivo do Projeto ( O que eu aprendi ) 
 
 Nesta aventura de desenvolvimento, aprendi várias coisas legais:
 
@@ -20,16 +20,16 @@ Nesta aventura de desenvolvimento, aprendi várias coisas legais:
 
 - Lidando com o Teclado Virtual : Aprenda a lidar com o teclado virtual para garantir uma experiência de usuário sem problemas.
 
-- Uso de componentes do React Native.
-- Estilização de componentes usando `StyleSheet`.
-- Layout responsivo para diferentes tamanhos de tela e plataformas.
-- Tratamento de eventos de toque.
-- Uso de imagens e ícones.
-- Manipulação do teclado virtual.
-- Organização e estrutura de componentes.
-- Prática com `TouchableOpacity` e `TouchableNativeFeedback`.
-- Uso de cores e tipografia para uma aparência coesa.
-- Conexão entre componentes (embora este projeto se concentre na interface do usuário).
+ Uso de componentes do React Native.
+ Estilização de componentes usando `StyleSheet`.
+ Layout responsivo para diferentes tamanhos de tela e plataformas.
+ Tratamento de eventos de toque.
+ Uso de imagens e ícones.
+ Manipulação do teclado virtual.
+ Organização e estrutura de componentes.
+ Prática com `TouchableOpacity` e `TouchableNativeFeedback`.
+ Uso de cores e tipografia para uma aparência coesa.
+ Conexão entre componentes (embora este projeto se concentre na interface do usuário).
 
 # 👥 Confira:
 
