@@ -31,6 +31,8 @@ Nesta aventura de desenvolvimento, aprendi várias coisas legais:
  - Uso de cores e tipografia para uma aparência coesa.
  - Conexão entre componentes (embora este projeto se concentre na interface do usuário).
 
+##
+
 # 👥 Confira:
 
 ### Processo de Geração de Senha
