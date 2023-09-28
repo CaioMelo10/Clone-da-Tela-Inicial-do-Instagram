@@ -35,8 +35,6 @@ Nesta aventura de desenvolvimento, aprendi várias coisas legais:
 
 # 👥 Confira:
 
-### Processo de Geração de Senha
-
 <ul style="list-style-type:none; display:flex; justify-content:space-between;">
   <li>
     <img src="./assets/resultado.jpg" alt="Tela 1" width="200" />
