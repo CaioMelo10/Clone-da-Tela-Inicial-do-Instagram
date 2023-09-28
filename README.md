@@ -45,4 +45,6 @@ Nesta aventura de desenvolvimento, aprendi várias coisas legais:
 
 ## O Mestre por Trás da Magia
 
-Eu sou o criador apaixonado deste projeto. Se você quiser me conhecer melhor ou verificar meus outros trabalhos, confira meu perfil no GitHub.
+Eu sou o criador apaixonado deste projeto. Se você quiser me conhecer melhor ou verificar meus outros trabalhos, confira meu perfil no GitHub e .Linkedin.
+
+https://www.linkedin.com/in/caio-melo-73595b24b/
