@@ -6,19 +6,19 @@ Olá, pessoal! Este é um projeto de clone da tela inicial do Instagram que dese
 
 Nesta aventura de desenvolvimento, aprendi várias coisas legais:
 
-Criando a Magia : Tive a oportunidade de recriar elementos como campos de login, botões e até mesmo a opção de fazer login com o Facebook, trazendo a experiência do Instagram para a vida.
+- Criando a Magia : Tive a oportunidade de recriar elementos como campos de login, botões e até mesmo a opção de fazer login com o Facebook, trazendo a experiência do Instagram para a vida.
 
-Domínio do React Native : Mergulhei de cabeça no mundo do React Native, aprendendo a criar interfaces de usuários móveis incríveis.
+- Domínio do React Native : Mergulhei de cabeça no mundo do React Native, aprendendo a criar interfaces de usuários móveis incríveis.
 
-Estilo é Tudo : Usei ou StyleSheet para adicionar um toque de estilo à interface do usuário, tornando-a visualmente atraente.
+- Estilo é Tudo : Usei ou StyleSheet para adicionar um toque de estilo à interface do usuário, tornando-a visualmente atraente.
 
-Compatibilidade Total : Tornei o projeto responsivo, garantindo que ele funcione bem em diferentes tamanhos de tela e plataformas.
+- Compatibilidade Total : Tornei o projeto responsivo, garantindo que ele funcione bem em diferentes tamanhos de tela e plataformas.
 
-Interatividade com Toque : Adicionei interatividade com eventos de toque e criei uma experiência de usuário com envolvente TouchableOpacity.
+- Interatividade com Toque : Adicionei interatividade com eventos de toque e criei uma experiência de usuário com envolvente TouchableOpacity.
 
-Brilho com Imagens e Ícones : Dei vida ao projeto com imagens cativantes e ícones incríveis do pacote @expo/vector-icons.
+- Brilho com Imagens e Ícones : Dei vida ao projeto com imagens cativantes e ícones incríveis do pacote @expo/vector-icons.
 
-Lidando com o Teclado Virtual : Aprenda a lidar com o teclado virtual para garantir uma experiência de usuário sem problemas.
+- Lidando com o Teclado Virtual : Aprenda a lidar com o teclado virtual para garantir uma experiência de usuário sem problemas.
 
 - Uso de componentes do React Native.
 - Estilização de componentes usando `StyleSheet`.
