@@ -19,17 +19,17 @@ Nesta aventura de desenvolvimento, aprendi várias coisas legais:
 - Brilho com Imagens e Ícones : Dei vida ao projeto com imagens cativantes e ícones incríveis do pacote @expo/vector-icons.
 
 - Lidando com o Teclado Virtual : Aprenda a lidar com o teclado virtual para garantir uma experiência de usuário sem problemas.
-
- Uso de componentes do React Native.
- Estilização de componentes usando `StyleSheet`.
- Layout responsivo para diferentes tamanhos de tela e plataformas.
- Tratamento de eventos de toque.
- Uso de imagens e ícones.
- Manipulação do teclado virtual.
- Organização e estrutura de componentes.
- Prática com `TouchableOpacity` e `TouchableNativeFeedback`.
- Uso de cores e tipografia para uma aparência coesa.
- Conexão entre componentes (embora este projeto se concentre na interface do usuário).
+##
+ - Uso de componentes do React Native.
+ - Estilização de componentes usando `StyleSheet`.
+ - Layout responsivo para diferentes tamanhos de tela e plataformas.
+ - Tratamento de eventos de toque.
+ - Uso de imagens e ícones.
+ - Manipulação do teclado virtual.
+ - Organização e estrutura de componentes.
+ - Prática com `TouchableOpacity` e `TouchableNativeFeedback`.
+ - Uso de cores e tipografia para uma aparência coesa.
+ - Conexão entre componentes (embora este projeto se concentre na interface do usuário).
 
 # 👥 Confira:
 
